@@ -5,7 +5,8 @@
 推荐 iTerm+zsh
 
 # 图片预览
-## [看图](https://itunes.apple.com/cn/app/id1059334054)
+## [Xee^3] 
+预览下一张图是空格，不是向右向下方向键
 
 # 屏幕截取&录制
 ## [截图](https://itunes.apple.com/cn/app/id1059334054)
