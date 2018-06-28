@@ -39,3 +39,6 @@ U盘插Mac不起作用，是Mac不支持NTFS的文件格式。
 还有一种情况是，多种字体要合并成一个ttf，然后你还没有HTML。
 这种情况，推荐**fontmin**，输入文字和选择字体来生成自定义的字体文件
 ## [fontmin](http://ecomfe.github.io/fontmin/#usage) IDE合并多种字体到一个字体文件
+
+# 多电脑共享鼠标键盘
+[Synergy](https://symless.com/synergy)
