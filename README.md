@@ -48,5 +48,5 @@ SourceTree或者命令行
 
 # 前端相关
 ## 搭建组件库的模版
-https://tangjinzhou.gitee.io/ant-design-vue/docs/vue/introduce-cn/
+[Ant Design of Vue](https://tangjinzhou.gitee.io/ant-design-vue/docs/vue/introduce-cn/)
 
