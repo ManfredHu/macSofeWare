@@ -50,3 +50,8 @@ SourceTree或者命令行
 ## 搭建组件库的模版
 [Ant Design of Vue](https://tangjinzhou.gitee.io/ant-design-vue/docs/vue/introduce-cn/)
 
+# npm库
+## [ora](https://github.com/sindresorhus/ora)  终端过程展示用的，可以显示Loading了什么
+## [moment](https://github.com/moment/moment) 时间处理相关
+## [rimraf](https://github.com/isaacs/rimraf) 删除文件
+## [chalk](https://github.com/chalk/chalk) 多颜色输出文本到终端
