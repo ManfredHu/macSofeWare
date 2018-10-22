@@ -16,14 +16,17 @@
 ## 编辑器
 WebStorm 大项目用，搜索方便
 SublimeText 笔记轻量，但是在大项目感觉没WebStorm好用
+用过SublimeText,WebStorm现在已经投向vscode，体验过的最简单配置&好用没有之一。
 
 ## FTP&SFTP文件上传
 SublimeText 可以装插件
 FileZilla 可以试试
 或者是shell的命令行直接实现哈哈哈
+VScode的话有个sftp插件
 
 ## SVN
-Cornerstone
+Mac:Cornerstone
+Windows的话是小乌龟系列
 
 ## Paste(复制粘贴管理)
 有时候复制的东西多了，会很蛋疼，这个可以管理近期复制的东西
@@ -51,7 +54,7 @@ SourceTree或者命令行
 [Ant Design of Vue](https://tangjinzhou.gitee.io/ant-design-vue/docs/vue/introduce-cn/)
 
 # npm库
-## [ora](https://github.com/sindresorhus/ora)  终端过程展示用的，可以显示Loading了什么
-## [moment](https://github.com/moment/moment) 时间处理相关
-## [rimraf](https://github.com/isaacs/rimraf) 删除文件
-## [chalk](https://github.com/chalk/chalk) 多颜色输出文本到终端
+### [ora](https://github.com/sindresorhus/ora)  终端过程展示用的，可以显示Loading什么
+### [moment](https://github.com/moment/moment) 时间处理相关，基本时间相关都是这个库了
+### [rimraf](https://github.com/isaacs/rimraf) 删除文件
+### [chalk](https://github.com/chalk/chalk) 多颜色输出文本到终端
