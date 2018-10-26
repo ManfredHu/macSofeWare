@@ -63,4 +63,5 @@ SourceTree或者命令行
   #### babel-preset-env 支持ES新语法特性模块
   #### [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) 支持生成入口html并内联生成的js模块
   #### webpack & webpack-cli 打包器和命令行工具
+  #### [clean-webpack-plugin](https://www.npmjs.com/package/clean-webpack-plugin) 清理文件目录工具
 
