@@ -58,3 +58,9 @@ SourceTree或者命令行
 ### [moment](https://github.com/moment/moment) 时间处理相关，基本时间相关都是这个库了
 ### [rimraf](https://github.com/isaacs/rimraf) 删除文件
 ### [chalk](https://github.com/chalk/chalk) 多颜色输出文本到终端
+### [babel&webpack全家桶]
+  #### babel-core babel-loader babel的核心模块和loader模块
+  #### babel-preset-env 支持ES新语法特性模块
+  #### [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) 支持生成入口html并内联生成的js模块
+  #### webpack & webpack-cli 打包器和命令行工具
+
