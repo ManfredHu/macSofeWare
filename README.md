@@ -65,4 +65,5 @@ SourceTree或者命令行
   - webpack & webpack-cli 打包器和命令行工具
   - [clean-webpack-plugin](https://www.npmjs.com/package/clean-webpack-plugin) 清理文件目录工具
   - [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) webpack自动打开浏览器插件
+  - [vue-loader](https://github.com/vuejs/vue-loader) 此 loader 支持用于 vue 组件的 HMR，提供开箱即用体验。
 
