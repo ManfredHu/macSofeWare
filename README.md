@@ -66,7 +66,9 @@ SourceTree或者命令行
   - [clean-webpack-plugin](https://www.npmjs.com/package/clean-webpack-plugin) 清理文件目录工具
   - [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) webpack自动打开浏览器插件
   - [vue-loader](https://github.com/vuejs/vue-loader) 此 loader 支持用于 vue 组件的 HMR，提供开箱即用体验。
-  
+### [shelljs](https://github.com/shelljs/shelljs)
+### [commander](https://github.com/tj/commander.js)
+
 # 开源
 ### [shields](https://shields.io/#/) 徽标制作
 ### [travis-ci](https://travis-ci.org) 集成测试
